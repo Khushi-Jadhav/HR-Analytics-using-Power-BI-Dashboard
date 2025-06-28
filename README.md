@@ -15,7 +15,8 @@ The HR Analytics Dashboard provides a comprehensive view of employee attrition b
 
 ### 4.📂 Data Source
 •	Internal HRMS data<br>
-•	Contains records of 1,470 employees, including demographics, salary, department, job role, and attrition status.
+•	Contains records of 1,470 employees, including demographics, salary, department, job role, and attrition status.<br>
+• Link to the Dataset: [(https://github.com/Khushi-Jadhav/HR-Analytics-using-Power-BI-Dashboard/blob/main/HR_Analytics.csv)]
 
 ### 5.✨ Features / Highlights
 
